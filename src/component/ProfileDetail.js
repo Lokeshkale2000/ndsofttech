@@ -77,25 +77,25 @@ const ProfileDetail = () => {
               <a href="">Summary</a>
             </li>
             <li>
-              <a href="#about">Answer</a>
+              <a href="">Answer</a>
             </li>
             <li>
-              <a href="#services">Question</a>
+              <a href="">Question</a>
             </li>
             <li>
-              <a href="#contact">Articles</a>
+              <a href="">Articles</a>
             </li>
             <li>
-              <a href="#about">Badget</a>
+              <a href="">Badget</a>
             </li>
             <li>
-              <a href="#services">Bookmaks</a>
+              <a href="">Bookmaks</a>
             </li>
             <li>
-              <a href="#contact">Following</a>
+              <a href="">Following</a>
             </li>
             <li>
-              <a href="#contact">Responses</a>
+              <a href="">Responses</a>
             </li>
           </ul>
         </div>

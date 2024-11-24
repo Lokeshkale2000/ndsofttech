@@ -25,7 +25,7 @@ ChartJS.register(
 );
 
 const Summary = () => {
-  const { impact,answers, questions} = userData.summary;
+  const { impact} = userData.summary;
 
 
   const options = {
