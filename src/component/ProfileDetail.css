@@ -1,0 +1,91 @@
+.profile-detail-container {
+  width: 96.59%;
+  margin-top: 20px;
+  margin-left: 50px;
+  font-family: Arial, sans-serif;
+  background: white;
+}
+.profile-main-container {
+  display: flex;
+  padding: 10px;
+}
+.text-container-link {
+  display: flex;
+  color: #555;
+}
+.profile-header-button {
+  margin-left: 20px;
+  padding: 6px 10px;
+  border-radius: 50px;
+}
+.profile-header-button:hover {
+  border: none;
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+
+.user-profile {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.profile-picture {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.profile-container-text {
+  display: flex;
+  margin-left: 90px;
+}
+.profile-info {
+  padding-right: 500px;
+  color: #555;
+}
+.profile-role {
+  margin: 0;
+}
+.Edit-btn-container {
+  margin-top: 60px;
+  padding: 8px;
+  margin-left: 100px;
+margin-top: -10px;
+}
+.Edit-btn {
+  padding: 8px;
+  background: black;
+  color: white;
+  border-radius: 2px;
+
+  
+}
+.side-navbar ul li a {
+  text-decoration: none;
+  color: #555;
+  display: block;
+  font-size: 18px;
+  margin-top: 20px;
+  padding: 4px 16px 4px 8px;
+ 
+  border-radius: 25px;
+}
+.side-navbar ul {
+  list-style: none;
+  padding: 4px 8px;
+  margin-left: 40px;
+}
+
+.side-navbar ul li a:hover {
+  background-color: #555;
+  color: #cbcbcb;
+}
+.side-navbarmain-conatiner {
+  display: flex;
+}
+.side-navbar {
+  width: 250px;
+}

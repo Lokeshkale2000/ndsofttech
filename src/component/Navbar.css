@@ -1,0 +1,9 @@
+.navbar-header-title {
+  border: 1px solid white;
+  padding: 15px 0 15px 200px;
+  font-family: Arial, Helvetica, sans-serif;
+  background: white;
+  color: rgb(78, 76, 76);
+  margin: 0;
+  box-shadow: 0 8px 8px rgba(42, 41, 41, 0.2);
+}
